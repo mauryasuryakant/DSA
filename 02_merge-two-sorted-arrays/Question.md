@@ -1,6 +1,4 @@
-**“Merge Two Sorted Arrays”** question — formatted in the same professional and consistent style you’re using for your DSA repository:
-
----
+### By Internet
 
 ### 🔹 **DSA Question (C++)**
 
