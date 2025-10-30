@@ -11,17 +11,6 @@ Each problem has its **own folder**, containing:
 
 ---
 
-## 📂 Repository Structure
-
-| Folder                    | Description                 |
-| ------------------------- | --------------------------- |
-| **Day-XX/**               | Individual problem folder   |
-| ┣ `Question.md`           | Problem statement & hints   |
-| ┣ `main.cpp`              | C++ solution                |
-| ┗ `Notes.md` *(optional)* | Notes, alternate approaches |
-
----
-
 ## 📈 Progress Tracker
 
 | No.    | Problem                                              | Category           | Difficulty             |
